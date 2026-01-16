@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+  <g id="Nose_and_Ears" data-name="Nose and Ears" transform="translate(6761 13852)">
+    <g id="Group_11398" data-name="Group 11398" transform="translate(-6753 -13844)">
+      <g id="Group_9405" data-name="Group 9405" transform="translate(15.371 34.809)">
+        <g id="Group_9404" data-name="Group 9404">
+          <path id="Path_28858" data-name="Path 28858" d="M101.575,215.886a12.291,12.291,0,0,0-8.206-4.447c.427,3.222,1.054,6.552,1.7,9.986.4,2.113.8,4.247,1.167,6.408a3.87,3.87,0,0,0,3.772,3.289c2.072,0,3.341-1.484,3.921-3.582A14.517,14.517,0,0,0,101.575,215.886Z" transform="translate(-93.369 -211.439)" fill="#0a195c"/>
+        </g>
+      </g>
+      <g id="Group_9407" data-name="Group 9407">
+        <g id="Group_9406" data-name="Group 9406">
+          <path id="Path_28859" data-name="Path 28859" d="M54.327,27.328A27.335,27.335,0,0,0,27.163,0,27.335,27.335,0,0,0,0,27.328C0,34.2,1.278,40.98,2.513,47.539c1.191,6.34,2.426,12.894,2.426,19.3a17.448,17.448,0,0,0,17.286,17.45,17.455,17.455,0,0,0,16.936-20.93c-1.206-5.889,3.13-12.742,7.21-16.823A26.987,26.987,0,0,0,54.327,27.328ZM39.387,39.552,35.9,36.06a12.35,12.35,0,1,0-21.079-8.732q0,1.233.07,2.491a17.215,17.215,0,0,1,12.511,6.3c6.108,7.452,3.205,15.56,3.2,16.268a8.752,8.752,0,0,1-17.23-.362c-.359-2.129-.755-4.235-1.148-6.316-1.206-6.4-2.341-12.441-2.341-18.386a17.293,17.293,0,1,1,29.51,12.224Z" fill="#0a195c"/>
+        </g>
+      </g>
+      <g id="Group_9409" data-name="Group 9409" transform="translate(58.675 40.309)">
+        <g id="Group_9408" data-name="Group 9408" transform="translate(0 0)">
+          <rect id="Rectangle_26891" data-name="Rectangle 26891" width="25.714" height="3.673" fill="#0a195c"/>
+        </g>
+      </g>
+      <g id="Group_9411" data-name="Group 9411" transform="translate(60.793 59.69)">
+        <g id="Group_9410" data-name="Group 9410" transform="translate(0 0)">
+          <rect id="Rectangle_26892" data-name="Rectangle 26892" width="4.939" height="22.086" transform="translate(0 4.417) rotate(-63.435)" fill="#0a195c"/>
+        </g>
+      </g>
+      <g id="Group_9413" data-name="Group 9413" transform="translate(60.796 10.304)">
+        <g id="Group_9412" data-name="Group 9412" transform="translate(0 0)">
+          <rect id="Rectangle_26893" data-name="Rectangle 26893" width="22.086" height="4.939" transform="translate(0 9.877) rotate(-26.565)" fill="#0a195c"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_27095" data-name="Rectangle 27095" width="100" height="100" transform="translate(-6761 -13852)" fill="none"/>
+  </g>
+</svg>

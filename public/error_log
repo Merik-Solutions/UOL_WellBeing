@@ -1,0 +1,8 @@
+[14-Sep-2022 14:44:13 America/New_York] PHP Warning:  require(/home/kinda/kinda/vendor/composer/../symfony/translation/Resources/functions.php): Failed to open stream: No such file or directory in /home/kinda/kinda/vendor/composer/autoload_real.php on line 78
+[14-Sep-2022 14:44:13 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/kinda/kinda/vendor/composer/../symfony/translation/Resources/functions.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/kinda/kinda/vendor/composer/autoload_real.php:78
+Stack trace:
+#0 /home/kinda/kinda/vendor/composer/autoload_real.php(61): composerRequiread48291164a9ba5fa9748179d33dbf85()
+#1 /home/kinda/kinda/vendor/autoload.php(7): ComposerAutoloaderInitad48291164a9ba5fa9748179d33dbf85::getLoader()
+#2 /home/kinda/kinda/public/index.php(34): require('/home/kinda/kin...')
+#3 {main}
+  thrown in /home/kinda/kinda/vendor/composer/autoload_real.php on line 78

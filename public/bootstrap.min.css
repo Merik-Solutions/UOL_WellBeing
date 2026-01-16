@@ -1,0 +1,87 @@
+html {
+    font-size: small;
+}
+
+body {
+    margin: 20px;
+}
+
+p {
+    margin: 0%;
+}
+
+h6 {
+    color: black;
+}
+
+.doctor-name {
+    color: #0A195C;
+}
+
+.details {
+    color: #4e5163;
+    font-weight: bold;
+}
+
+.diagnosis-details {
+    color: #0A195C;
+}
+
+.header-line {
+    height: 10px;
+    background-color: #0A195C;
+    margin-bottom: 10px;
+}
+
+.footer {
+    height: 100px;
+    position: fixed;
+    left: 0;
+    width: 93%;
+    bottom: 0;
+    margin: 20px;
+}
+
+.footer-content {
+    margin: auto;
+    font-size: xx-small;
+    text-align: center;
+}
+
+.doctor-stamp {
+    border: 1.5px solid darkgray;
+    border-radius: 5px;
+    padding: 5px;
+    transform: rotate(-10deg) translate(50px) scale(1.2);
+}
+
+.company-stamp {
+    border: 1.5px solid darkgray;
+    border-radius: 5px;
+    padding: 5px;
+    transform: rotate(-25deg) translate(40px, -10px);
+}
+
+.doctor-first-name {
+    font-size: large;
+}
+
+.footer-line {
+    height: 10px;
+    background-color: #0A195C;
+    position: fixed;
+    left: 0;
+    width: 93%;
+    bottom: 0;
+    margin: 20px;
+}
+
+.date-row {
+    font-size: smaller;
+    color: darkgrey;
+    margin-bottom: 7px;
+}
+
+hr {
+    color: darkgray;
+}
