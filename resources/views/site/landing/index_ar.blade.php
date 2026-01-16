@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="keywords" content="" />
     <meta name="copyright" content="" />
-    <title>KINDAHEALTH | MEDICAL CONSULTATION</title>
+    <title>WELLBEING | MEDICAL CONSULTATION</title>
 
     <!-- Fave Icons
     ================================-->
@@ -136,7 +136,7 @@
                 <div class="row">
                     <div class="col-12" data-aos="fade-up" data-aos-delay="50">
                         <div class="section_title">
-                            <h3>استخدام KINDAHEALTH سهل للغاية</h3>
+                            <h3>استخدام WELLBEING سهل للغاية</h3>
                             <p>كواحد ، اثنان ، ثلاثة ، أربعة</p>
                         </div>
                     </div>
@@ -275,7 +275,7 @@
                                 </a>
                                 <!--End panel-title-->
                                 <div class="panel-collapse collapse show in" id="toggle1" data-parent="#faqs">
-                                    KINDAHEALTH هي منصة تسهل تواصلك مع الأطباء. يمكنك استشارة
+                                    WELLBEING هي منصة تسهل تواصلك مع الأطباء. يمكنك استشارة
                                     طاقم طبي مؤهل تأهيلا عاليا عبر الفيديو وأنت مرتاح في منزلك
                                     دون الحاجة إلى السفر!
                                 </div>
@@ -299,7 +299,7 @@
                                 </a>
                                 <!--End panel-title-->
                                 <div class="panel-collapse collapse" id="toggle3" data-parent="#faqs">
-                                    حاليًا KINDAHEALTH متاح من 11 صباحًا حتى 10 مساءً ، 7 أيام
+                                    حاليًا WELLBEING متاح من 11 صباحًا حتى 10 مساءً ، 7 أيام
                                     في الأسبوع ، و 365 يومًا في السنة ، حتى في أيام العطلات.
                                 </div>
                                 <!--End Panel Collapse-->
@@ -312,7 +312,7 @@
                                 <div class="panel-collapse collapse" id="toggle4" data-parent="#faqs">
                                     تختلف التكلفة حسب الطبيب الذي تختاره والتخصص والوقت الذي
                                     تستغرقه. ستتم محاسبتك فقط بعد اختيارك استشارة الطبيب وتأكيد
-                                    موعدك ومعلومات الدفع. يقبل KINDAHEALTH معظم بطاقات الائتمان
+                                    موعدك ومعلومات الدفع. يقبل WELLBEING معظم بطاقات الائتمان
                                     والخصم الرئيسية.
                                 </div>
                                 <!--End Panel Collapse-->
@@ -386,9 +386,9 @@
                             </a>
                         </li>
                         <li>
-                            <a href="mailto:info@kindahealth.com">
+                            <a href="mailto:info@WELLBEING.com">
                                 <i class="fa fa-envelope"></i>
-                                info@kindahealth.com
+                                info@WELLBEING.com
                             </a>
                         </li>
                     </ul>
@@ -422,7 +422,7 @@
                         </li>
                         <li><a href="/en"> الأنجليزية </a></li>
                     </ul>
-                    <p>جميع الحقوق محفوظة | KINDAHEALTH حقوق الطبع والنشر © 2021</p>
+                    <p>جميع الحقوق محفوظة | WELLBEING حقوق الطبع والنشر © 2021</p>
                 </div>
                 <!--End Col-->
             </div>

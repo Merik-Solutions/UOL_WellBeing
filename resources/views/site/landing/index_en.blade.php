@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="keywords" content="" />
     <meta name="copyright" content="" />
-    <title>KINDAHEALTH | MEDICAL CONSULTATION</title>
+    <title>WELLBEING | MEDICAL CONSULTATION</title>
 
     <!-- Fave Icons
     ================================-->
@@ -138,7 +138,7 @@
                 <div class="row">
                     <div class="col-12" data-aos="fade-up" data-aos-delay="50">
                         <div class="section_title">
-                            <h3>Using KINDAHEALTH is as easy</h3>
+                            <h3>Using WELLBEING is as easy</h3>
                             <p>as one, two, three, four</p>
                         </div>
                     </div>
@@ -273,11 +273,11 @@
                         <div class="accordion" id="faqs">
                             <div class="panel">
                                 <a href="#toggle1" data-toggle="collapse" class="panel-title">
-                                    What is KINDAHEALTH?
+                                    What is WELLBEING?
                                 </a>
                                 <!--End panel-title-->
                                 <div class="panel-collapse collapse show in" id="toggle1" data-parent="#faqs">
-                                    KINDAHEALTH Is a platform which facilitate your
+                                    WELLBEING Is a platform which facilitate your
                                     communication with doctors. You can consult with highly
                                     qualified medical personnel via video from the comfort of
                                     your own home without having to travel!
@@ -286,7 +286,7 @@
                             </div>
                             <div class="panel">
                                 <a href="#toggle2" data-toggle="collapse" class="collapsed panel-title">
-                                    How do I register for KINDAHEALTH?
+                                    How do I register for WELLBEING?
                                 </a>
                                 <!--End panel-title-->
                                 <div class="panel-collapse collapse" id="toggle2" data-parent="#faqs">
@@ -299,25 +299,25 @@
                             </div>
                             <div class="panel">
                                 <a href="#toggle3" data-toggle="collapse" class="collapsed panel-title">
-                                    When is KINDAHEALTH available?
+                                    When is WELLBEING available?
                                 </a>
                                 <!--End panel-title-->
                                 <div class="panel-collapse collapse" id="toggle3" data-parent="#faqs">
-                                    Currently KINDAHEALTH is available from 11 am until 10 pm, 7
+                                    Currently WELLBEING is available from 11 am until 10 pm, 7
                                     days a week, and 365 days a year, even on holidays.
                                 </div>
                                 <!--End Panel Collapse-->
                             </div>
                             <div class="panel">
                                 <a href="#toggle4" data-toggle="collapse" class="collapsed panel-title">
-                                    How much does it cost to use KINDAHEALTH?
+                                    How much does it cost to use WELLBEING?
                                 </a>
                                 <!--End panel-title-->
                                 <div class="panel-collapse collapse" id="toggle4" data-parent="#faqs">
                                     The cost varies depending on which physician you choose,
                                     specialty and time consumed. You will only be charged after
                                     you choose to consult with a doctor and your appointment
-                                    time and payment information are confirmed. KINDAHEALTH
+                                    time and payment information are confirmed. WELLBEING
                                     accepts most major credit and debit cards.
                                 </div>
                                 <!--End Panel Collapse-->
@@ -393,9 +393,9 @@
                             </a>
                         </li>
                         <li>
-                            <a href="mailto:info@kindahealth.com">
+                            <a href="mailto:info@WELLBEING.com">
                                 <i class="fa fa-envelope"></i>
-                                info@kindahealth.com
+                                info@WELLBEING.com
                             </a>
                         </li>
                     </ul>
@@ -428,7 +428,7 @@
                         </li>
                         <li><a href="/ar"> العربية </a></li>
                     </ul>
-                    <p>All Right Reserved | KINDAHEALTH Copyright © 2021</p>
+                    <p>All Right Reserved | WELLBEING Copyright © 2021</p>
                 </div>
                 <!--End Col-->
             </div>

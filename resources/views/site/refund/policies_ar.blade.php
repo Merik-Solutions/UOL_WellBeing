@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="keywords" content="" />
     <meta name="copyright" content="" />
-    <title>KINDAHEALTH | MEDICAL CONSULTATION</title>
+    <title>WELLBEING | MEDICAL CONSULTATION</title>
 
     <!-- Fave Icons
     ================================-->
@@ -165,9 +165,9 @@
                             </a>
                         </li>
                         <li>
-                            <a href="mailto:info@kindahealth.com">
+                            <a href="mailto:info@WELLBEING.com">
                                 <i class="fa fa-envelope"></i>
-                                info@kindahealth.com
+                                info@WELLBEING.com
                             </a>
                         </li>
                     </ul>
@@ -201,7 +201,7 @@
                         </li>
                         <li><a href="/en/refundpolicies"> الأنجليزية </a></li>
                     </ul>
-                    <p>جميع الحقوق محفوظة | KINDAHEALTH حقوق الطبع والنشر © 2021</p>
+                    <p>جميع الحقوق محفوظة | WELLBEING حقوق الطبع والنشر © 2021</p>
                 </div>
                 <!--End Col-->
             </div>
