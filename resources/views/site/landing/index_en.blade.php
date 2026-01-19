@@ -50,8 +50,8 @@
      ==========================================-->
     <div class="loading">
         <div class="load_cont">
-            <img src="{{ assets('kinda') }}/assets/images/logo_icon.png" />
-            <img src="{{ assets('kinda') }}/assets/images/logo_word.png" class="fa-spin" />
+            {{-- <img src="{{ assets('kinda') }}/assets/images/logo_icon.png" /> --}}
+            {{-- <img src="{{ assets('kinda') }}/assets/images/logo_word.png" class="fa-spin" /> --}}
         </div>
     </div>
     <!-- Header
