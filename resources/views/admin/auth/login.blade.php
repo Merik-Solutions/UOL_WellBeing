@@ -35,7 +35,7 @@
                 <div class="col-md-8 col-lg-6 col-xl-5">
                     <div class="text-center">
                         <a href="{!! url('/') !!}">
-                            <span><img src="{!! assets('dashboard/logo.png') !!}" width="200" alt=""></span>
+                            {{-- <span><img src="{!! assets('dashboard/logo.png') !!}" width="200" alt=""></span> --}}
                         </a>
                         <p class="text-muted mt-2 mb-4">{!! env("APP_NAME") !!}</p>
                     </div>

@@ -119,7 +119,7 @@
                     <!--End Col-->
                     <div class="col-lg-6 col-md-6">
                         <div class="main_img animated fadeInUp" style="animation-delay: 0.7s">
-                            <img src="{{ assets('kinda') }}/assets/images/main_img.png" />
+                            <img src="{{ assets('kinda') }}/assets/images/mainimg.PNG" />
                         </div>
                     </div>
                     <!--End Col-->
