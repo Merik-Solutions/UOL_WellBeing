@@ -40,7 +40,7 @@
                     </button>
                 </div>
                 <div class="modal-body">
-                    {!! \App\Models\Setting::find('12', ['value'])->value !!}
+                    {{ optional(\App\Models\Setting::find(12))->value }}                
 
                 </div>
             </div>
